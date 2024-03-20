@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 5 Soccer Players in This Generation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #666;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .player {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Top 5 Soccer Players in This Generation</h1>
+        </header>
+        <nav>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <div class="player">
+            <h2>Lionel Messi</h2>
+            <p>Considered one of the greatest players of all time, Lionel Messi has won numerous awards, including multiple Ballon d'Or titles.</p>
+        </div>
+        <div class="player">
+            <h2>Cristiano Ronaldo</h2>
+            <p>Cristiano Ronaldo is another football legend, known for his incredible athleticism and goal-scoring ability.</p>
+        </div>
+        <div class="player">
+            <h2>Neymar Jr.</h2>
+            <p>Neymar Jr. is a Brazilian forward known for his skillful dribbling and creative playmaking on the field.</p>
+        </div>
+        <div class="player">
+            <h2>Robert Lewandowski</h2>
+            <p>Robert Lewandowski is a prolific striker known for his remarkable goal-scoring record for both club and country.</p>
+        </div>
+        <div class="player">
+            <h2>Kevin De Bruyne</h2>
+            <p>Kevin De Bruyne is a versatile midfielder known for his exceptional passing, vision, and leadership on the field.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+about.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .back-button {
+            display: block;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>About</h1>
+        </header>
+        <div class="back-button">
+            <a href="index.html">Back to Home</a>
+        </div>
+        <div class="player">
+            <h2>Additional Picture of a Soccer Player</h2>
+            <!-- Add your additional content here -->
+        </div>
+        <p>This website shows you the top 5 soccer players in this generation. Explore the profiles of these legendary athletes and discover what makes them exceptional.</p>
+    </div>
+</body>
+</html>
+
+contact.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .back-button {
+            display: block;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Contact</h1>
+        </header>
+        <div class="back-button">
+            <a href="index.html">Back to Home</a>
+        </div>
+        <div class="player">
+            <h2>Additional Picture of a Soccer Player</h2>
+            <!-- Add your additional content here -->
+        </div>
+        <p>Email: Dhillon_zaferjit@khalsaschool.ca</p>
+    </div>
+</body>
+</html>
